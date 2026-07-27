@@ -1,16 +1,25 @@
-## Hi there 👋
+# bullshar-k
+Welcome to my profile, I hope you find something useful here.
 
-<!--
-**bullshar-k/bullshar-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A few things about me:
+- Network engineer
+- Programs when necessary (Go, bash, formatting languages(i.e HTML / CSS))
+- Majoring in network & cloud engineering
+- Linux enthusias (Arch, Alpine, Debian)
+- Has a couple websites
 
-Here are some ideas to get you started:
+## A thing or two I know
+- Wireguard
+- Docker
+- NAT
+- BGP
+- SSH
+- Netcat
+- Bash
+- 802.1 everything
+- SQL
+- Linux, a lot of Linux
+- VPS / Cloud server management
+- Crypto / Monero
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It kinda feels pointless to list it all. If you wanna see if I'm legit or pick my brain about something message me on IRC, its on my website to the left overthere on my profile link to see my rants about networking experiences, friend, & their projects. 
