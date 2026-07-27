@@ -22,4 +22,4 @@ A few things about me:
 - VPS / Cloud server management
 - Crypto / Monero
 
-It kinda feels pointless to list it all. If you wanna see if I'm legit or pick my brain about something message me on IRC, its on my website to the left overthere on my profile link to see my rants about networking experiences, friend, & their projects. 
+It kinda feels pointless to list it all. If you wanna see if I'm legit or pick my brain about something message me on IRC, its on my website to the left overthere. There you can see my rants about networking experiences, equipment, friends, & their projects. 
